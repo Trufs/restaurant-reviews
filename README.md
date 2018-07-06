@@ -15,8 +15,8 @@ After the initial use with a network connection, the app can be also used while 
 * The starter code provided by Udacity.
 
 ### Dependencies
-* [Leaflet.js] (https://leafletjs.com/),
-* [Mapbox] (https://mapbox.com/)
+* [Leaflet.js](https://leafletjs.com/),
+* [Mapbox](https://mapbox.com/)
 
 ### Contributing
 This is a project for Udacity course and it will likely not be developed further.
