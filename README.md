@@ -17,6 +17,7 @@ After the initial use with a network connection, the app can be also used while 
 ### Dependencies
 * [Leaflet.js](https://leafletjs.com/),
 * [Mapbox](https://mapbox.com/)
+* [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) (for offline use)
 
 ### Contributing
 This is a project for Udacity course and it will likely not be developed further.
